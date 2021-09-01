@@ -14,5 +14,5 @@ A Discord-Bot built with JavaScript using API : https://competitive-coding-api.h
   <img src="/assets/ss.png"/>
 </h1>
 <h6 align = "center">
-  Author: ansi22 🤓
+ 
  </h6>
