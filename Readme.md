@@ -3,7 +3,7 @@
 </p>
 
 <h1 align = "center">
-  Score-Bot
+  Succeed-Bot
 </h1>
 
 ## Description
